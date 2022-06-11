@@ -30,12 +30,8 @@
     <h2>Built with</h2>
     All the code is written in Python3 and Jupyter Notebook.
 </div>
-<div>
-    <h2>Getting started & Installation</h2>
-    <ul>
-        <li>Clone the repo: <i><span style="color:red">git clone https://github.com/pavanvpatil/openSMILE-Expiremental-setup.git</span></i></li>
-        <li>Install all the necessary packages</li>
-        <li>Follow all the comments shown in code</li>
-        <li>Run code</li>
-    </ul>
-</div>
+## Getting started & Installation
+* Clone the repo <br> `git clone https://github.com/pavanvpatil/openSMILE-Expiremental-setup.git`
+* Install all the necessary packages
+* Follow all the comments shown in code
+* Run code
