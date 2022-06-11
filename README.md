@@ -33,7 +33,7 @@
 <div>
     <h2>Getting started & Installation</h2>
     <ul>
-        <li>Clone the repo: <i><span style="color:red">git clone https://github.com/pavanvpatil/openSMILE_Expiremental_setup.git</span></i></li>
+        <li>Clone the repo: <i><span style="color:red">git clone https://github.com/pavanvpatil/openSMILE-Expiremental-setup.git</span></i></li>
         <li>Install all the necessary packages</li>
         <li>Follow all the comments shown in code</li>
         <li>Run code</li>
