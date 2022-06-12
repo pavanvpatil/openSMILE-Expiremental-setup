@@ -17,9 +17,9 @@ All the code is written in Python3 and Jupyter Notebook.
 
 ## Getting started & Installation
 * Clone the repo <br> `git clone https://github.com/pavanvpatil/openSMILE-Expiremental-setup.git`
-* Install all the necessary packages <br> `pip install os`
-`pip install sklearn`
-`pip install opensmile`
+* Install all the necessary packages <br> `pip install os` <br>
+`pip install sklearn` <br>
+`pip install opensmile` <br>
 `pip install numpy`
 * Follow all the comments shown in the code
 * Run code
