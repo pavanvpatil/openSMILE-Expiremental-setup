@@ -11,6 +11,8 @@ Our job is to detect fake speech of given audio file, so we are using openSMILE 
 * Support vector machine
 * Logistic regression
 
+## Process of fake speech detection
+<img src="Images\Expiremental setup Opensmile.png" alt="Image" />
 
 ## Built with
 All the code is written in Python3 and Jupyter Notebook.
@@ -21,5 +23,5 @@ All the code is written in Python3 and Jupyter Notebook.
 `pip install sklearn` <br>
 `pip install opensmile` <br>
 `pip install numpy`
-* Follow all the comments shown in the code
+* Follow all the comments shown in OpenSmile-code file
 * Run code
